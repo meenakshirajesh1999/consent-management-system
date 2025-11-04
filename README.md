@@ -649,5 +649,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 **Version**: 2.0  
-**Last Updated**: November 2024  
+**Last Updated**: November 2025 
 **Project**: Patient Consent Management System
